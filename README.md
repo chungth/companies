@@ -43,6 +43,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### H
 
 - [HBLAB](https://hblab.vn)
+- [Haposoft](https://haposoft.com)
 
 ### I
 
